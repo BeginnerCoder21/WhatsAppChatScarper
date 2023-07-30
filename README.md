@@ -4,7 +4,7 @@
 
 <h2>Here is the Link to the Live Demo</h2>
 <h4>Note: Please upload the data that uses the <span style="color:red"> 24-hour time format and not the 12-hour format with AM/PM</span>.</h4>
-<a href="https://whatsappchatscarper.streamlit.app/">Try it out</a>
+<a href="https://whatsappchatscarper.streamlit.app/" target="_blank">Try it out</a>
 
 <h2>How it works?</h2>
 
