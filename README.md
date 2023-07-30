@@ -3,6 +3,7 @@
   Simply export your chat as a text file and upload it to the tool. You have two options for analysis: individual analysis or overall analysis. </h4>
 
 <h2>Here is the Link to the Live Demo</h2>
+<h4>Note: Please upload the data that uses the <span style="color:red"> 24-hour time format and not the 12-hour format with AM/PM</span>.</h4>
 <a href="https://whatsappchatscarper.streamlit.app/">Try it out</a>
 
 <h2>How it works?</h2>
